@@ -1,4 +1,4 @@
-# 🚩 CTF Writeups
+# 🚩 CTF Writeups & Cybersecurity Labs
 
 [![HTB|97x20](https://img.shields.io/badge/HackTheBox-111927?style=flat&logo=hackthebox&logoColor=9FEF00)](https://app.hackthebox.com/)
 [![THM](https://img.shields.io/badge/TryHackMe-212C42?style=flat&logo=tryhackme&logoColor=white)](https://tryhackme.com/)
