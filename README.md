@@ -1,6 +1,6 @@
 # 🚩 CTF Writeups
 
-[![HTB](https://img.shields.io/badge/HackTheBox-111927?style=flat&logo=hackthebox&logoColor=9FEF00)](https://app.hackthebox.com/)
+[![HTB|97x20](https://img.shields.io/badge/HackTheBox-111927?style=flat&logo=hackthebox&logoColor=9FEF00)](https://app.hackthebox.com/)
 [![THM](https://img.shields.io/badge/TryHackMe-212C42?style=flat&logo=tryhackme&logoColor=white)](https://tryhackme.com/)
 [![Root-Me](https://img.shields.io/badge/Root--Me-000000?style=flat&logo=rootme&logoColor=white)](https://www.root-me.org/)
 
@@ -53,8 +53,8 @@
 
 ## 🔗 Контакты
 
-- HTB Profile: [link]([https://app.hackthebox.com/users/username](https://profile.hackthebox.com/profile/019c76d9-dbb7-72c0-b924-661d4f18abdb))
-- THM Profile: [link](https://tryhackme.com/p/0x007b)
+- HTB Profile: [link](https://profile.hackthebox.com/profile/019c76d9-dbb7-72c0-b924-661d4f18abdb)
+- THM Profile: [link](https://tryhackme.com/p/0x00b7)
 
 ---
 
