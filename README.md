@@ -44,13 +44,25 @@
 
 ## 📈 Прогресс
 
-- [ ] Заполнить первые writeups
+- [x] Заполнить первые writeups
 - [ ] Настроить GitHub Pages
 - [ ] Добавить автоматическую генерацию PDF
 - [ ] Достичь 10 writeups
 
 ---
+## 📈 Сертификаты
+| Сертификация                   | Фокус                        | Стоимость |
+| ------------------------------ | ---------------------------- | --------- |
+| **eJPT** (eLearnSecurity)      | Penetration testing basics   | \$200     |
+| **PNPT** (TCM Security)        | Practical network pentest    | \$300     |
+| **OSCP** (Offensive Security)  | 24-hour exam, comprehensive  | \$1600+   |
+| **OSWE** (Offensive Security)  | Web exploitation             | \$1600+   |
+| **OSED** (Offensive Security)  | Windows exploit development  | \$1600+   |
+| **OSEP** (Offensive Security)  | Evasion, persistence         | \$1600+   |
+| **OSCP+** (Offensive Security) | Advanced penetration testing | \$2100+   |
+| **GXPN** (SANS)                | Advanced exploit dev         | \$8000+   |
 
+---
 ## 🔗 Контакты
 
 - HTB Profile: [link](https://profile.hackthebox.com/profile/019c76d9-dbb7-72c0-b924-661d4f18abdb)
