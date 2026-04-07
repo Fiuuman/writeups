@@ -2,7 +2,7 @@
 
 [![HTB|97x20](https://img.shields.io/badge/HackTheBox-111927?style=flat&logo=hackthebox&logoColor=9FEF00)](https://app.hackthebox.com/)
 [![THM](https://img.shields.io/badge/TryHackMe-212C42?style=flat&logo=tryhackme&logoColor=white)](https://tryhackme.com/)
-[![Root-Me](https://img.shields.io/badge/Root--Me-000000?style=flat&logo=rootme&logoColor=white)](https://www.root-me.org/)
+[![Root-Me|75x20](https://img.shields.io/badge/Root--Me-000000?style=flat&logo=rootme&logoColor=white)](https://www.root-me.org/)
 
 Коллекция writeups и решений с различных CTF-платформ и соревнований.  
 Цель: систематизировать знания, делиться техниками и отслеживать прогресс.
