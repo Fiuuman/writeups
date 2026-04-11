@@ -7,3 +7,9 @@
 ```
 ssh fd@pwnable.kr -p2222
 ```
+![desc](./imgs/fd-connect.webp)
+```
+password: guest
+```
+# Answer
+Посмотрим на код: 
