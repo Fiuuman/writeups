@@ -30,3 +30,5 @@ python -c "print(0x1234)"
 Дальше нам просто нужно ввести <b>LETMEWIN</b> чтобы нам выдали флаг:
 ![desc](./imgs/fd-flag.webp)
 
+Получаем наши заветные баллы:
+![desc](./imgs/fd-ready.webp)
