@@ -1,2 +1,6 @@
 # [pwnable.kr](https://pwnable.kr) | [fd](https://pwnable.kr/play.php)
-![[./imgs/fd-desc.webp]]
+
+# Description 
+![desc](./imgs/fd-desc.webp)
+
+# Connect
