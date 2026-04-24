@@ -5,3 +5,8 @@
 | **Difficulty** | Very Easy  |
 | **OS**         | Linux      |
 | **Date**       | 31.03.2026 |
+![desc](./images/Cap-description.webp)
+
+## Steps/Шаги
+### 1) Scaning open ports/Сканирование открытых портов
+### 2) 
